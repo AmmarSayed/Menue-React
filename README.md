@@ -1,4 +1,4 @@
-# react-project -menu
+# React-project -Menu
 
 
 This is a project built to get hands on React useState useEffect and conditional rendering.
